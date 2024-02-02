@@ -14,9 +14,9 @@ We’ll cover:
 • Creating user authentication and authorization
 • Creating the store cart feature for our NestJS ecommerce app
 
-Getting started with our NestJS ecommerce app:
+**Getting started with our NestJS ecommerce app:**
 
-Modules:
+**Modules:**
 Definition: Modules are used to organize and structure a Nest.js application. 
 At least one root module is required to create an app.
 
@@ -26,7 +26,7 @@ modules.
 Dependency Injection: Nest uses the dependency injection pattern to 
 connect modules with their dependencies.
 
-Controllers:
+**Controllers:**
 
 Responsibility: Controllers handle incoming HTTP requests, validate 
 parameters, and return responses to the client.
@@ -34,7 +34,7 @@ parameters, and return responses to the client.
 Clean and Simple: Controllers should be kept clean and simple, with most of 
 the complex logic delegated to services.
 
-Services:
+**Services:**
 
 Role: Services hold the business logic and application functionality. Complex 
 logic should be implemented within services.
